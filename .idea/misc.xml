@@ -9,12 +9,18 @@
       </usages-collector>
     </session>
   </component>
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/dubbo-consumer-02" />
+    <file type="web" url="file://$PROJECT_DIR$/dubbo-provider-02" />
+  </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/dubbo-provider-01/pom.xml" />
         <option value="$PROJECT_DIR$/dubbo-consume-r01/pom.xml" />
         <option value="$PROJECT_DIR$/dubbo-consumer-01/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-provider-02/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-consumer-02/pom.xml" />
       </list>
     </option>
   </component>
